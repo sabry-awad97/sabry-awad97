@@ -21,52 +21,59 @@
 
 ## 🚀 My Journey: From Pharmacy to Code
 
-```typescript
-const sabryAwad = {
-  background: "🧪 Pharmacist → 💻 Software Engineer",
-  mission: "Building software for healthcare & beyond",
-  experience: "5+ years",
-  location: "🌍 Egypt",
+```rust
+struct Developer {
+    background: &'static str,
+    mission: &'static str,
+    experience: &'static str,
+    location: &'static str,
+    unique_value: &'static str,
+    current_focus: &'static str,
+    philosophy: &'static str,
+}
 
-  uniqueValue: "Combining healthcare domain knowledge with technical expertise",
+impl Developer {
+    fn new() -> Self {
+        Self {
+            background: "🧪 Pharmacist → 💻 Software Engineer",
+            mission: "Building software for healthcare & beyond",
+            experience: "5+ years",
+            location: "🌍 Egypt",
+            unique_value: "Combining healthcare domain knowledge with technical expertise",
+            current_focus: "Creating smarter, context-aware experiences for users",
+            philosophy: "Blending technical precision with practical healthcare impact",
+        }
+    }
 
-  expertise: {
-    frontend: [
-      "React.js",
-      "Next.js",
-      "TypeScript",
-      "TanStack Query/Router/Table",
-    ],
-    backend: [
-      "Node.js",
-      "Go (Fiber, Gin)",
-      "Rust (Rocket, Axum)",
-      "Express",
-      "Hono",
-    ],
-    crossPlatform: ["Tauri (Rust + React)", "Electron"],
-    databases: ["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡"],
-    ai: {
-      llms: ["OpenAI 🤖", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
-      protocols: ["MCP (Model Context Protocol)", "LangChain"],
-      applications: ["AI Chatbots", "Autonomous Agents", "RAG Pipelines"],
-    },
-    devOps: ["Docker 🐳", "GitHub Actions", "CI/CD"],
-    testing: ["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
-    dataAnalytics: ["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"],
-  },
+    fn expertise(&self) -> Expertise {
+        Expertise {
+            frontend: vec!["React.js", "Next.js", "TypeScript", "TanStack Query/Router/Table"],
+            backend: vec!["Node.js", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
+            cross_platform: vec!["Tauri (Rust + React)", "Electron"],
+            databases: vec!["PostgreSQL �", "MongoDB 🍃", "Redis ⚡"],
+            ai: AI {
+                llms: vec!["OpenAI �", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
+                protocols: vec!["MCP (Model Context Protocol)", "LangChain"],
+                applications: vec!["AI Chatbots", "Autonomous Agents", "RAG Pipelines"],
+            },
+            dev_ops: vec!["Docker 🐳", "GitHub Actions", "CI/CD"],
+            testing: vec!["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
+            data_analytics: vec!["Python (Pandas, Matplotlib, Plotly)", "Power BI �"],
+        }
+    }
 
-  specialization: [
-    "💊 Healthcare Data Analysis & Visualization",
-    "🤖 AI Agents & LLM Orchestration",
-    "🔗 Model Context Protocol (MCP)",
-    "⚡ High-Performance Systems",
-    "🎨 Modern Web Architecture",
-  ],
+    fn specialization(&self) -> Vec<&'static str> {
+        vec![
+            "�💊 Healthcare Data Analysis & Visualization",
+            "🤖 AI Agents & LLM Orchestration",
+            "🔗 Model Context Protocol (MCP)",
+            "⚡ High-Performance Systems",
+            "🎨 Modern Web Architecture",
+        ]
+    }
+}
 
-  currentFocus: "Creating smarter, context-aware experiences for users",
-  philosophy: "Blending technical precision with practical healthcare impact",
-};
+let sabry_awad = Developer::new();
 ```
 
 <div align="center">
