@@ -220,6 +220,21 @@ Blazing-fast multithreaded grep tool
 </td>
 <td width="50%">
 
+### 🎨 [ANSI Escape Sequences](https://crates.io/crates/ansi-escape-sequences)
+
+Terminal styling library for Rust
+
+**Tech:** Rust • CLI • Terminal
+
+[![Crates.io](https://img.shields.io/crates/v/ansi-escape-sequences?style=social&logo=rust)](https://crates.io/crates/ansi-escape-sequences)
+[![Downloads](https://img.shields.io/crates/d/ansi-escape-sequences?style=social)](https://crates.io/crates/ansi-escape-sequences)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🔧 [Rust MCP Servers](https://github.com/sabry-awad97/rust-mcp-servers)
 
 Collection of MCP servers in Rust
@@ -227,6 +242,9 @@ Collection of MCP servers in Rust
 **Tech:** Rust • MCP • Systems Programming
 
 ![Stars](https://img.shields.io/github/stars/sabry-awad97/rust-mcp-servers?style=social)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
