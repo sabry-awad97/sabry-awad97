@@ -235,6 +235,45 @@ Terminal styling library for Rust
 <tr>
 <td width="50%">
 
+### 📏 [String Width](https://crates.io/crates/string-width)
+
+Unicode-aware string width calculation
+
+**Tech:** Rust • Unicode • Text Processing
+
+[![Crates.io](https://img.shields.io/crates/v/string-width?style=social&logo=rust)](https://crates.io/crates/string-width)
+[![Downloads](https://img.shields.io/crates/d/string-width?style=social)](https://crates.io/crates/string-width)
+
+</td>
+<td width="50%">
+
+### 🎁 [Boxen](https://crates.io/crates/boxen)
+
+Create beautiful boxes in the terminal
+
+**Tech:** Rust • CLI • Terminal UI
+
+[![Crates.io](https://img.shields.io/crates/v/boxen?style=social&logo=rust)](https://crates.io/crates/boxen)
+[![Downloads](https://img.shields.io/crates/d/boxen?style=social)](https://crates.io/crates/boxen)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 [Wrap ANSI](https://crates.io/crates/wrap-ansi)
+
+Word wrap text with ANSI escape codes
+
+**Tech:** Rust • Text Processing • Terminal
+
+[![Crates.io](https://img.shields.io/crates/v/wrap-ansi?style=social&logo=rust)](https://crates.io/crates/wrap-ansi)
+[![Downloads](https://img.shields.io/crates/d/wrap-ansi?style=social)](https://crates.io/crates/wrap-ansi)
+
+</td>
+<td width="50%">
+
 ### 🔧 [Rust MCP Servers](https://github.com/sabry-awad97/rust-mcp-servers)
 
 Collection of MCP servers in Rust
@@ -242,9 +281,6 @@ Collection of MCP servers in Rust
 **Tech:** Rust • MCP • Systems Programming
 
 ![Stars](https://img.shields.io/github/stars/sabry-awad97/rust-mcp-servers?style=social)
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
