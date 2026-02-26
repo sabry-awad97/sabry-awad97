@@ -12,8 +12,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=700&lines=Pharmacist+%E2%86%92+Software+Engineer;5%2B+Years+Building+Solutions;Healthcare+Tech+Specialist;Rust+%7C+Go+%7C+TypeScript+%7C+Python;AI+%2B+Full-Stack+Development;MCP+%26+LLM+Orchestration" alt="Typing SVG" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=sabry-awad97&color=blueviolet&style=for-the-badge)](https://github.com/sabry-awad97)
-  [![GitHub followers](https://img.shields.io/github/followers/sabry-awad97?style=for-the-badge&color=blue)](https://github.com/sabry-awad97)
-  [![GitHub Stars](https://img.shields.io/github/stars/sabry-awad97?style=for-the-badge&color=yellow)](https://github.com/sabry-awad97)
+  [![GitHub followers](https://img.shields.io/github/followers/sabry-awad97?style=for-the-badge&color=blue&logo=github)](https://github.com/sabry-awad97?tab=followers)
+  [![GitHub User's stars](https://img.shields.io/github/stars/sabry-awad97?style=for-the-badge&color=yellow&logo=github&affiliations=OWNER)](https://github.com/sabry-awad97?tab=repositories)
   
 </div>
 
