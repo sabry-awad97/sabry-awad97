@@ -50,21 +50,21 @@ impl Developer {
             frontend: vec!["React.js", "Next.js", "TypeScript", "TanStack Query/Router/Table"],
             backend: vec!["Node.js", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
             cross_platform: vec!["Tauri (Rust + React)", "Electron"],
-            databases: vec!["PostgreSQL �", "MongoDB 🍃", "Redis ⚡"],
+            databases: vec!["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡"],
             ai: AI {
-                llms: vec!["OpenAI �", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
+                llms: vec!["OpenAI 🤖", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
                 protocols: vec!["MCP (Model Context Protocol)", "LangChain"],
                 applications: vec!["AI Chatbots", "Autonomous Agents", "RAG Pipelines"],
             },
             dev_ops: vec!["Docker 🐳", "GitHub Actions", "CI/CD"],
             testing: vec!["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
-            data_analytics: vec!["Python (Pandas, Matplotlib, Plotly)", "Power BI �"],
+            data_analytics: vec!["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"],
         }
     }
 
     fn specialization(&self) -> Vec<&'static str> {
         vec![
-            "�💊 Healthcare Data Analysis & Visualization",
+            \"💊 Healthcare Data Analysis & Visualization",
             "🤖 AI Agents & LLM Orchestration",
             "🔗 Model Context Protocol (MCP)",
             "⚡ High-Performance Systems",
@@ -327,7 +327,7 @@ mindmap
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201030320366)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabry-awad97)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabry-awad97)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fb44e8f83ad87268)
 
 **📧 dr.sabry1997@gmail.com** | **📱 +20 103 032 0366**
 
