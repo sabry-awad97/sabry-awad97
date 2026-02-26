@@ -4,9 +4,12 @@
 
 <div align="center">
   
-  ### 💥 Full-Stack Engineer | 🦀 Systems Architect | 🤖 AI Integration Specialist
+  # 👋 I'm Sabry Awad
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Experience;Full-Stack+%2B+AI+Development;Rust+%7C+Go+%7C+TypeScript+%7C+Python;Building+Scalable+Systems;MCP+%26+LLM+Orchestration" alt="Typing SVG" />
+  ### 🧪 Pharmacist turned Full-Stack Developer 💊
+  ### I build software for healthcare & beyond
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=700&lines=Pharmacist+%E2%86%92+Software+Engineer;5%2B+Years+Building+Solutions;Healthcare+Tech+Specialist;Rust+%7C+Go+%7C+TypeScript+%7C+Python;AI+%2B+Full-Stack+Development;MCP+%26+LLM+Orchestration" alt="Typing SVG" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=sabry-awad97&color=blueviolet&style=for-the-badge)](https://github.com/sabry-awad97)
   [![GitHub followers](https://img.shields.io/github/followers/sabry-awad97?style=for-the-badge&color=blue)](https://github.com/sabry-awad97)
@@ -16,33 +19,42 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 My Journey: From Pharmacy to Code
 
 ```typescript
 const sabryAwad = {
-  title: "Full-Stack Developer & Software Engineer",
+  background: "🧪 Pharmacist → 💻 Software Engineer",
+  mission: "Building software for healthcare & beyond",
   experience: "5+ years",
-  location: "🌍 Building the future, one commit at a time",
+  location: "🌍 Egypt",
+  
+  uniqueValue: "Combining healthcare domain knowledge with technical expertise",
   
   expertise: {
-    frontend: ["React.js", "Next.js", "TypeScript", "TanStack Ecosystem"],
-    backend: ["Node.js", "Go", "Rust", "Express", "Hono", "Axum"],
-    crossPlatform: ["Tauri", "Electron"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    ai: ["OpenAI", "Gemini", "Anthropic", "Ollama", "LangChain", "MCP"],
-    devOps: ["Docker", "GitHub Actions", "CI/CD"]
+    frontend: ["React.js", "Next.js", "TypeScript", "TanStack Query/Router/Table"],
+    backend: ["Node.js", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
+    crossPlatform: ["Tauri (Rust + React)", "Electron"],
+    databases: ["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡"],
+    ai: {
+      llms: ["OpenAI 🤖", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
+      protocols: ["MCP (Model Context Protocol)", "LangChain"],
+      applications: ["AI Chatbots", "Autonomous Agents", "RAG Pipelines"]
+    },
+    devOps: ["Docker 🐳", "GitHub Actions", "CI/CD"],
+    testing: ["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
+    dataAnalytics: ["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"]
   },
   
-  passions: [
+  specialization: [
+    "💊 Healthcare Data Analysis & Visualization",
     "🤖 AI Agents & LLM Orchestration",
     "🔗 Model Context Protocol (MCP)",
     "⚡ High-Performance Systems",
-    "🎨 Modern Web Architecture",
-    "📊 Data Visualization"
+    "🎨 Modern Web Architecture"
   ],
   
-  currentFocus: "Building intelligent, context-aware applications",
-  funFact: "I blend frontend craftsmanship with backend engineering and AI magic ✨"
+  currentFocus: "Creating smarter, context-aware experiences for users",
+  philosophy: "Blending technical precision with practical healthcare impact"
 };
 ```
 
@@ -50,7 +62,7 @@ const sabryAwad = {
   
   ### 💼 Professional Highlights
   
-  🎯 **205+ Open Source Repositories** | 🌟 **Active Contributor** | 🏆 **5+ Years Experience**
+  🎯 **205+ Open Source Repositories** | 🌟 **5+ Years Experience** | 💊 **Healthcare Tech Specialist**
   
 </div>
 
@@ -73,7 +85,7 @@ const sabryAwad = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
@@ -86,6 +98,7 @@ const sabryAwad = {
 ![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -93,11 +106,13 @@ const sabryAwad = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chromatic&logoColor=white)
 
-### 🤖 AI & ML
+### 🤖 AI & ML Ecosystem
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
@@ -127,7 +142,7 @@ const sabryAwad = {
 <td width="50%">
 
 ### 🤖 [AI Knowledge Assistant](https://github.com/sabry-awad97/ai-knowledge-assistant-python)
-Production-ready RAG system with local embeddings & Gemini 2.5
+Production-ready RAG system with Docker AI, local embeddings & Gemini 2.5
 
 **Tech:** Python • FastAPI • PostgreSQL • Weaviate
 
@@ -221,40 +236,41 @@ Collection of MCP servers in Rust
 ```mermaid
 mindmap
   root((Sabry Awad))
-    Learning
-      Advanced Rust Patterns
-      Distributed Systems
-      AI/ML Engineering
-    Building
-      MCP Servers
-      AI Agents
-      Cross-Platform Apps
-    Exploring
-      RAG Systems
+    Healthcare Tech
+      Medical Data Systems
+      Patient Management
+      Healthcare Analytics
+    AI Development
       LLM Orchestration
-      Context-Aware AI
-    Contributing
-      Open Source
+      AI Agents
+      RAG Systems
+    Full-Stack
+      Modern Web Apps
+      Cross-Platform
+      System Design
+    Open Source
+      MCP Servers
       Developer Tools
-      AI Infrastructure
+      CLI Applications
 ```
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
 | 🎯 Milestone | 📈 Status |
 |-------------|-----------|
+| **Background** | 🧪 Pharmacist → 💻 Developer |
 | **Public Repositories** | 205+ |
 | **Years of Experience** | 5+ |
 | **Tech Stack Mastery** | 20+ Technologies |
-| **AI/ML Projects** | Production-Ready |
-| **Open Source Contributions** | Active |
-| **Cross-Platform Development** | Rust + TypeScript |
+| **Healthcare Projects** | Production Systems |
+| **AI/ML Integration** | LLM & MCP Expert |
+| **Open Source** | Active Contributor |
 
 </div>
 
@@ -266,9 +282,9 @@ mindmap
 
 🎨 **Frontend Craftsmanship** • ⚙️ **Backend Engineering** • 🤖 **AI Integration**
 
-🚀 **Performance Optimization** • 🏗️ **System Architecture** • 📊 **Data Visualization**
+💊 **Healthcare Domain Expertise** • 🏗️ **System Architecture** • 📊 **Data Visualization**
 
-🔄 **CI/CD Pipelines** • 🧪 **Test-Driven Development** • 📱 **Cross-Platform Development**
+🚀 **Performance Optimization** • 🔄 **CI/CD Pipelines** • 📱 **Cross-Platform Development**
 
 </div>
 
@@ -278,10 +294,13 @@ mindmap
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dr.sabry1997@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201030320366)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabry-awad97)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabry-awad97)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabry.awad97@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+
+**📧 dr.sabry1997@gmail.com** | **📱 +20 103 032 0366**
 
 </div>
 
@@ -289,18 +308,27 @@ mindmap
 
 <div align="center">
   
-  ### 💭 Developer Philosophy
+  ### 💭 My Philosophy
   
-  *"Blending frontend craftsmanship, backend engineering, and AI integration to build scalable, maintainable, and high-performing applications that make a real-world impact."*
+  *"Combining healthcare domain knowledge with software engineering to build solutions that make a real-world impact. From understanding patient needs to architecting scalable systems."*
   
   ---
   
-  ### ⚡ Fun Facts
+  ### ⚡ What Makes Me Different
   
-  🔥 Passionate about **AI Agents** and **MCP**  
-  🌟 Love creating **context-aware experiences**  
-  🎯 Focused on **healthcare data** impact  
-  ☕ Powered by coffee and curiosity  
+  💊 **Pharmacist Background** - Deep healthcare domain knowledge  
+  💻 **Full-Stack Expertise** - Frontend to backend to AI  
+  🤖 **AI Integration Specialist** - MCP, LLM orchestration, RAG systems  
+  🏥 **Healthcare Focus** - Building software that matters  
+  🌍 **Global Mindset** - Working with international teams  
+  
+  ---
+  
+  ### 🎓 Unique Value Proposition
+  
+  I don't just write code - I understand the healthcare problems I'm solving.  
+  My pharmacy background gives me insights that pure developers might miss.  
+  I bridge the gap between medical needs and technical solutions.
   
   ---
   
