@@ -27,34 +27,45 @@ const sabryAwad = {
   mission: "Building software for healthcare & beyond",
   experience: "5+ years",
   location: "🌍 Egypt",
-  
+
   uniqueValue: "Combining healthcare domain knowledge with technical expertise",
-  
+
   expertise: {
-    frontend: ["React.js", "Next.js", "TypeScript", "TanStack Query/Router/Table"],
-    backend: ["Node.js", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
+    frontend: [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "TanStack Query/Router/Table",
+    ],
+    backend: [
+      "Node.js",
+      "Go (Fiber, Gin)",
+      "Rust (Rocket, Axum)",
+      "Express",
+      "Hono",
+    ],
     crossPlatform: ["Tauri (Rust + React)", "Electron"],
     databases: ["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡"],
     ai: {
       llms: ["OpenAI 🤖", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
       protocols: ["MCP (Model Context Protocol)", "LangChain"],
-      applications: ["AI Chatbots", "Autonomous Agents", "RAG Pipelines"]
+      applications: ["AI Chatbots", "Autonomous Agents", "RAG Pipelines"],
     },
     devOps: ["Docker 🐳", "GitHub Actions", "CI/CD"],
     testing: ["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
-    dataAnalytics: ["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"]
+    dataAnalytics: ["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"],
   },
-  
+
   specialization: [
     "💊 Healthcare Data Analysis & Visualization",
     "🤖 AI Agents & LLM Orchestration",
     "🔗 Model Context Protocol (MCP)",
     "⚡ High-Performance Systems",
-    "🎨 Modern Web Architecture"
+    "🎨 Modern Web Architecture",
   ],
-  
+
   currentFocus: "Creating smarter, context-aware experiences for users",
-  philosophy: "Blending technical precision with practical healthcare impact"
+  philosophy: "Blending technical precision with practical healthcare impact",
 };
 ```
 
@@ -142,6 +153,7 @@ const sabryAwad = {
 <td width="50%">
 
 ### 🤖 [AI Knowledge Assistant](https://github.com/sabry-awad97/ai-knowledge-assistant-python)
+
 Production-ready RAG system with Docker AI, local embeddings & Gemini 2.5
 
 **Tech:** Python • FastAPI • PostgreSQL • Weaviate
@@ -152,6 +164,7 @@ Production-ready RAG system with Docker AI, local embeddings & Gemini 2.5
 <td width="50%">
 
 ### 🎨 [Reratui](https://github.com/sabry-awad97/reratui)
+
 Modern Terminal UI framework built in Rust
 
 **Tech:** Rust • TUI • CLI
@@ -165,6 +178,7 @@ Modern Terminal UI framework built in Rust
 <td width="50%">
 
 ### 🌐 [Tauri Nexus](https://github.com/sabry-awad97/tauri-nexus)
+
 Cross-platform desktop application framework
 
 **Tech:** Rust • Tauri • React • TypeScript
@@ -175,6 +189,7 @@ Cross-platform desktop application framework
 <td width="50%">
 
 ### 📦 [Spec Kit MCP](https://github.com/sabry-awad97/spec-kit-mcp)
+
 Model Context Protocol server toolkit
 
 **Tech:** TypeScript • MCP • Node.js
@@ -188,6 +203,7 @@ Model Context Protocol server toolkit
 <td width="50%">
 
 ### 🔍 [mgrep](https://github.com/sabry-awad97/mgrep)
+
 Blazing-fast multithreaded grep tool
 
 **Tech:** Rust • Concurrency • CLI
@@ -198,6 +214,7 @@ Blazing-fast multithreaded grep tool
 <td width="50%">
 
 ### 🔧 [Rust MCP Servers](https://github.com/sabry-awad97/rust-mcp-servers)
+
 Collection of MCP servers in Rust
 
 **Tech:** Rust • MCP • Systems Programming
@@ -215,16 +232,21 @@ Collection of MCP servers in Rust
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabry-awad97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabry-awad97&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabry-awad97&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabry-awad97&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabry-awad97&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabry-awad97&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabry-awad97&theme=tokyonight&utcOffset=2)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabry-awad97&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabry-awad97&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=sabry-awad97&theme=tokyonight&hide_border=true&background=0d1117)
+
 </div>
 
 ---
@@ -262,15 +284,15 @@ mindmap
 
 <div align="center">
 
-| 🎯 Milestone | 📈 Status |
-|-------------|-----------|
-| **Background** | 🧪 Pharmacist → 💻 Developer |
-| **Public Repositories** | 205+ |
-| **Years of Experience** | 5+ |
-| **Tech Stack Mastery** | 20+ Technologies |
-| **Healthcare Projects** | Production Systems |
-| **AI/ML Integration** | LLM & MCP Expert |
-| **Open Source** | Active Contributor |
+| 🎯 Milestone            | 📈 Status                    |
+| ----------------------- | ---------------------------- |
+| **Background**          | 🧪 Pharmacist → 💻 Developer |
+| **Public Repositories** | 205+                         |
+| **Years of Experience** | 5+                           |
+| **Tech Stack Mastery**  | 20+ Technologies             |
+| **Healthcare Projects** | Production Systems           |
+| **AI/ML Integration**   | LLM & MCP Expert             |
+| **Open Source**         | Active Contributor           |
 
 </div>
 
