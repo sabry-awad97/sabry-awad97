@@ -9,7 +9,7 @@
   ### 🧪 Pharmacist turned Full-Stack Developer 💊
   ### I build software for healthcare & beyond
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=700&lines=Pharmacist+%E2%86%92+Software+Engineer;5%2B+Years+Building+Solutions;Healthcare+Tech+Specialist;Rust+%7C+Go+%7C+TypeScript+%7C+Python;AI+%2B+Full-Stack+Development;MCP+%26+LLM+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=700&lines=Pharmacist+%E2%86%92+Software+Engineer;5%2B+Years+Building+Solutions;Healthcare+Tech+Specialist;Rust+%7C+Go+%7C+TypeScript+%7C+Python;AI+%2B+Full-Stack+Development;MCP+%26+LLM+Orchestration;Arabic+%2B+English+Speaker" alt="Typing SVG" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=sabry-awad97&color=blueviolet&style=for-the-badge)](https://github.com/sabry-awad97)
   [![GitHub followers](https://img.shields.io/github/followers/sabry-awad97?style=for-the-badge&color=blue&logo=github)](https://github.com/sabry-awad97?tab=followers)
@@ -48,25 +48,28 @@ impl Developer {
     fn expertise(&self) -> Expertise {
         Expertise {
             frontend: vec!["React.js", "Next.js", "TypeScript", "TanStack Query/Router/Table"],
-            backend: vec!["Node.js", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
+            backend: vec!["Node.js", "Python (FastAPI)", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
             cross_platform: vec!["Tauri (Rust + React)", "Electron"],
             databases: vec!["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡"],
             ai: AI {
                 llms: vec!["OpenAI 🤖", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
                 protocols: vec!["MCP (Model Context Protocol)", "LangChain"],
-                applications: vec!["AI Chatbots", "Autonomous Agents", "RAG Pipelines"],
+                applications: vec!["AI Chatbots", "Autonomous Agents", "RAG Pipelines", "WhatsApp Bots"],
             },
             dev_ops: vec!["Docker 🐳", "GitHub Actions", "CI/CD"],
             testing: vec!["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
             data_analytics: vec!["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"],
+            languages: vec!["Arabic (Native) 🇪🇬", "English (Fluent) 🇬🇧"],
         }
     }
 
     fn specialization(&self) -> Vec<&'static str> {
         vec![
-            \"💊 Healthcare Data Analysis & Visualization",
+            "💊 Healthcare Data Analysis & Visualization",
             "🤖 AI Agents & LLM Orchestration",
             "🔗 Model Context Protocol (MCP)",
+            "💬 WhatsApp Business API Integration",
+            "🌍 Arabic & English Bilingual Development",
             "⚡ High-Performance Systems",
             "🎨 Modern Web Architecture",
         ]
@@ -80,7 +83,7 @@ let sabry_awad = Developer::new();
   
   ### 💼 Professional Highlights
   
-  🎯 **205+ Open Source Repositories** | 🌟 **5+ Years Experience** | 💊 **Healthcare Tech Specialist**
+  🎯 **205+ Open Source Repositories** | 🌟 **5+ Years Experience** | 💊 **Healthcare Tech Specialist** | 🌍 **Arabic & English Speaker**
   
 </div>
 
@@ -111,12 +114,15 @@ let sabry_awad = Developer::new();
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -146,6 +152,11 @@ let sabry_awad = Developer::new();
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### 🌍 Languages
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-00843D?style=for-the-badge&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-0052CC?style=for-the-badge&logo=google-translate&logoColor=white)
 
 </div>
 
@@ -348,6 +359,8 @@ mindmap
 | 🎯 Milestone            | 📈 Status                    |
 | ----------------------- | ---------------------------- |
 | **Background**          | 🧪 Pharmacist → 💻 Developer |
+| **Location**            | 🇪🇬 Egypt                     |
+| **Languages**           | Arabic (Native) • English    |
 | **Public Repositories** | 205+                         |
 | **Years of Experience** | 5+                           |
 | **Tech Stack Mastery**  | 20+ Technologies             |
@@ -366,6 +379,10 @@ mindmap
 🎨 **Frontend Craftsmanship** • ⚙️ **Backend Engineering** • 🤖 **AI Integration**
 
 💊 **Healthcare Domain Expertise** • 🏗️ **System Architecture** • 📊 **Data Visualization**
+
+🚀 **Performance Optimization** • 🔄 **CI/CD Pipelines** • 📱 **Cross-Platform Development**
+
+💬 **WhatsApp Business API** • 🌍 **Bilingual Development (Arabic/English)** • 🐍 **Python & FastAPI**
 
 🚀 **Performance Optimization** • 🔄 **CI/CD Pipelines** • 📱 **Cross-Platform Development**
 
