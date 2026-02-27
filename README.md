@@ -9,12 +9,29 @@
   ### 🧪 Pharmacist turned Full-Stack Developer 💊
   ### I build software for healthcare & beyond
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=700&lines=Pharmacist+%E2%86%92+Software+Engineer;5%2B+Years+Building+Solutions;Healthcare+Tech+Specialist;Rust+%7C+Go+%7C+TypeScript+%7C+Python;AI+%2B+Full-Stack+Development;MCP+%26+LLM+Orchestration;Arabic+%2B+English+Speaker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=700&lines=Pharmacist+%E2%86%92+Software+Engineer;5%2B+Years+Building+Solutions;Native+Arabic+Speaker+🇪🇬;Healthcare+Tech+Specialist;Rust+%7C+Go+%7C+TypeScript+%7C+Python;AI+%2B+Full-Stack+Development;WhatsApp+API+Integration;Bilingual+Development+(Arabic%2FEnglish);MCP+%26+LLM+Orchestration;Arabic+%2B+English+Speaker" alt="Typing SVG" />
   
   [![Profile Views](https://komarev.com/ghpvc/?username=sabry-awad97&color=blueviolet&style=for-the-badge)](https://github.com/sabry-awad97)
   [![GitHub followers](https://img.shields.io/github/followers/sabry-awad97?style=for-the-badge&color=blue&logo=github)](https://github.com/sabry-awad97?tab=followers)
   [![GitHub User's stars](https://img.shields.io/github/stars/sabry-awad97?style=for-the-badge&color=yellow&logo=github&affiliations=OWNER)](https://github.com/sabry-awad97?tab=repositories)
   
+</div>
+
+---
+
+## 🌟 Key Differentiators
+
+<div align="center">
+
+### What Makes Me Unique
+
+![Native Arabic Speaker](https://img.shields.io/badge/Arabic-Native_🇪🇬-00843D?style=for-the-badge&logo=google-translate&logoColor=white)
+![English Fluent](https://img.shields.io/badge/English-Fluent-0052CC?style=for-the-badge&logo=google-translate&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![RTL Development](https://img.shields.io/badge/RTL_Development-Expert-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+![Bilingual Apps](https://img.shields.io/badge/Bilingual_Apps-Arabic%2FEnglish-4CAF50?style=for-the-badge&logo=react&logoColor=white)
+![i18n Expert](https://img.shields.io/badge/i18n%2Fl10n-Expert-9C27B0?style=for-the-badge&logo=i18next&logoColor=white)
+
 </div>
 
 ---
@@ -38,9 +55,9 @@ impl Developer {
             background: "🧪 Pharmacist → 💻 Software Engineer",
             mission: "Building software for healthcare & beyond",
             experience: "5+ years",
-            location: "🌍 Egypt",
-            unique_value: "Combining healthcare domain knowledge with technical expertise",
-            current_focus: "Creating smarter, context-aware experiences for users",
+            location: "🇪🇬 Egypt (Native Arabic Speaker)",
+            unique_value: "Combining healthcare domain knowledge with bilingual technical expertise",
+            current_focus: "Building Arabic-first AI applications with cultural sensitivity",
             philosophy: "Blending technical precision with practical healthcare impact",
         }
     }
@@ -50,12 +67,14 @@ impl Developer {
             frontend: vec!["React.js", "Next.js", "TypeScript", "TanStack Query/Router/Table"],
             backend: vec!["Node.js", "Python (FastAPI)", "Go (Fiber, Gin)", "Rust (Rocket, Axum)", "Express", "Hono"],
             cross_platform: vec!["Tauri (Rust + React)", "Electron"],
-            databases: vec!["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡"],
+            databases: vec!["PostgreSQL 🐘", "MongoDB 🍃", "Redis ⚡", "Pinecone", "Chroma", "Weaviate"],
             ai: AI {
                 llms: vec!["OpenAI 🤖", "Gemini 🪶", "Anthropic 🧩", "Ollama 🧭"],
                 protocols: vec!["MCP (Model Context Protocol)", "LangChain"],
                 applications: vec!["AI Chatbots", "Autonomous Agents", "RAG Pipelines", "WhatsApp Bots"],
             },
+            messaging: vec!["WhatsApp Business API 💬", "Real-time Chat", "WebSocket"],
+            i18n: vec!["react-i18next", "next-intl", "RTL Support", "Arabic Typography", "BiDi Text"],
             dev_ops: vec!["Docker 🐳", "GitHub Actions", "CI/CD"],
             testing: vec!["Vitest 🧪", "React Testing Library", "Cypress", "Postman"],
             data_analytics: vec!["Python (Pandas, Matplotlib, Plotly)", "Power BI 📊"],
@@ -65,11 +84,12 @@ impl Developer {
 
     fn specialization(&self) -> Vec<&'static str> {
         vec![
-            "💊 Healthcare Data Analysis & Visualization",
+            "🇪🇬 Native Arabic Speaker & Cultural Expert",
+            "💬 WhatsApp Business API Integration",
+            "🌍 Bilingual Development (Arabic/English, RTL, i18n)",
             "🤖 AI Agents & LLM Orchestration",
             "🔗 Model Context Protocol (MCP)",
-            "💬 WhatsApp Business API Integration",
-            "🌍 Arabic & English Bilingual Development",
+            "💊 Healthcare Data Analysis & Visualization",
             "⚡ High-Performance Systems",
             "🎨 Modern Web Architecture",
         ]
@@ -83,8 +103,25 @@ let sabry_awad = Developer::new();
   
   ### 💼 Professional Highlights
   
-  🎯 **205+ Open Source Repositories** | 🌟 **5+ Years Experience** | 💊 **Healthcare Tech Specialist** | 🌍 **Arabic & English Speaker**
+  🎯 **205+ Open Source Repositories** | 🌟 **5+ Years Experience** | 💊 **Healthcare Tech Specialist** | 🇪🇬 **Native Arabic Speaker** | 💬 **WhatsApp API Expert**
   
+</div>
+
+---
+
+## 🎉 Recent Highlights
+
+<div align="center">
+
+| Achievement                   | Details                                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------ |
+| 💬 **WhatsApp Integration**   | Built production WhatsApp Business API platform with Arabic text support & LLM integration |
+| 🌍 **Bilingual Portal**       | Developed dual-portal healthcare app (Arabic/English) with full RTL support & i18n         |
+| 🤖 **AI Knowledge Assistant** | Production RAG system with Gemini 2.5, streaming responses & vector databases              |
+| 📦 **Published Crates**       | 4 Rust crates on crates.io with 1,000+ downloads (CLI/Terminal tools)                      |
+| 🇪🇬 **Native Arabic Speaker**  | Building culturally-aware applications for Arabic users with deep UX understanding         |
+| 🏥 **Healthcare Expertise**   | Ex-Pharmacist bringing domain knowledge to software engineering                            |
+
 </div>
 
 ---
@@ -122,7 +159,20 @@ let sabry_awad = Developer::new();
 ![Rust Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+### 💬 Messaging & Real-time
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Real-time Chat](https://img.shields.io/badge/Real--time_Chat-4285F4?style=for-the-badge&logo=googlechat&logoColor=white)
+
+### 🌍 Internationalization (i18n)
+
+![react-i18next](https://img.shields.io/badge/react--i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
+![next-intl](https://img.shields.io/badge/next--intl-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![RTL Support](https://img.shields.io/badge/RTL_Support-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+![Arabic Typography](https://img.shields.io/badge/Arabic_Typography-00843D?style=for-the-badge&logo=google-fonts&logoColor=white)
+![BiDi Text](https://img.shields.io/badge/BiDi_Text-9C27B0?style=for-the-badge&logo=unicode&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -131,6 +181,7 @@ let sabry_awad = Developer::new();
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chromatic&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### 🤖 AI & ML Ecosystem
 
@@ -144,6 +195,7 @@ let sabry_awad = Developer::new();
 
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🔧 DevOps & Tools
 
@@ -152,11 +204,6 @@ let sabry_awad = Developer::new();
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-### 🌍 Languages
-
-![Arabic](https://img.shields.io/badge/Arabic-Native-00843D?style=for-the-badge&logo=google-translate&logoColor=white)
-![English](https://img.shields.io/badge/English-Fluent-0052CC?style=for-the-badge&logo=google-translate&logoColor=white)
 
 </div>
 
@@ -167,6 +214,42 @@ let sabry_awad = Developer::new();
 <div align="center">
 
 <table>
+<tr>
+<td width="50%">
+
+### � WhatsApp Business API Integration
+
+Production WhatsApp Bot with AI-powered responses & Arabic text support
+
+**Tech:** Node.js • WhatsApp API • LLM • TypeScript • Arabic
+
+**Features:**
+
+- Message handling & webhook processing
+- Real-time chat with Arabic text support
+- LLM integration for intelligent responses
+- RESTful APIs for message management
+
+</td>
+<td width="50%">
+
+### � Bilingual Healthcare Portal
+
+Arabic/English dual-portal with full RTL support & i18n
+
+**Tech:** React • Next.js • i18n • RTL • PostgreSQL
+
+**Features:**
+
+- Dual-portal architecture (professionals + patients)
+- Full RTL support with Arabic typography
+- BiDi text handling
+- Role-based access control
+- Document management
+
+</td>
+</tr>
+
 <tr>
 <td width="50%">
 
@@ -181,7 +264,7 @@ Production-ready RAG system with Docker AI, local embeddings & Gemini 2.5
 </td>
 <td width="50%">
 
-### 🎨 [Reratui](https://github.com/sabry-awad97/reratui)
+### � [Reratui](https://github.com/sabry-awad97/reratui)
 
 Modern Terminal UI framework built in Rust
 
@@ -206,7 +289,7 @@ Cross-platform desktop application framework
 </td>
 <td width="50%">
 
-### 📦 [Spec Kit MCP](https://github.com/sabry-awad97/spec-kit-mcp)
+### � [Spec Kit MCP](https://github.com/sabry-awad97/spec-kit-mcp)
 
 Model Context Protocol server toolkit
 
@@ -220,7 +303,7 @@ Model Context Protocol server toolkit
 <tr>
 <td width="50%">
 
-### 🔍 [mgrep](https://github.com/sabry-awad97/mgrep)
+### � [mgrep](https://github.com/sabry-awad97/mgrep)
 
 Blazing-fast multithreaded grep tool
 
@@ -323,50 +406,16 @@ Collection of MCP servers in Rust
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Current Focus
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Sabry Awad))
-    Healthcare Tech
-      Medical Data Systems
-      Patient Management
-      Healthcare Analytics
-    AI Development
-      LLM Orchestration
-      AI Agents
-      RAG Systems
-    Full-Stack
-      Modern Web Apps
-      Cross-Platform
-      System Design
-    Open Source
-      MCP Servers
-      Developer Tools
-      CLI Applications
-```
-
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Milestone            | 📈 Status                    |
-| ----------------------- | ---------------------------- |
-| **Background**          | 🧪 Pharmacist → 💻 Developer |
-| **Location**            | 🇪🇬 Egypt                     |
-| **Languages**           | Arabic (Native) • English    |
-| **Public Repositories** | 205+                         |
-| **Years of Experience** | 5+                           |
-| **Tech Stack Mastery**  | 20+ Technologies             |
-| **Healthcare Projects** | Production Systems           |
-| **AI/ML Integration**   | LLM & MCP Expert             |
-| **Open Source**         | Active Contributor           |
+🌍 **Building Arabic-first AI applications with cultural sensitivity**  
+� **WhatsApp Business API integrations for conversational AI**  
+🤖 **LLM orchestration for bilingual systems (Arabic/English)**  
+🏥 **Healthcare tech with domain expertise & user empathy**  
+🔄 **RTL/BiDi UI patterns and i18n best practices**  
+⚡ **High-performance systems with Rust & Go**
 
 </div>
 
@@ -376,15 +425,44 @@ mindmap
 
 <div align="center">
 
-🎨 **Frontend Craftsmanship** • ⚙️ **Backend Engineering** • 🤖 **AI Integration**
+### � Unique Strengths
 
-💊 **Healthcare Domain Expertise** • 🏗️ **System Architecture** • 📊 **Data Visualization**
+🇪🇬 **Native Arabic Speaker** • 🌍 **Bilingual Development (Arabic/English)** • 💬 **WhatsApp Business API**
+
+### 🎨 Technical Excellence
+
+🎨 **Frontend Craftsmanship** • ⚙️ **Backend Engineering** • 🤖 **AI/LLM Integration**
+
+### 💊 Domain Expertise
+
+💊 **Healthcare Domain Knowledge** • 🏗️ **Dual-Portal Architecture** • 📊 **Data Visualization**
+
+### 🚀 Modern Practices
 
 🚀 **Performance Optimization** • 🔄 **CI/CD Pipelines** • 📱 **Cross-Platform Development**
 
-💬 **WhatsApp Business API** • 🌍 **Bilingual Development (Arabic/English)** • 🐍 **Python & FastAPI**
+</div>
 
-🚀 **Performance Optimization** • 🔄 **CI/CD Pipelines** • 📱 **Cross-Platform Development**
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🎯 Milestone                | 📈 Status                          |
+| --------------------------- | ---------------------------------- |
+| **Background**              | 🧪 Pharmacist → 💻 Developer       |
+| **Location**                | 🇪🇬 Egypt (Native Arabic Speaker)   |
+| **Languages**               | Arabic (Native) • English (Fluent) |
+| **WhatsApp API Experience** | ✅ Production Integration          |
+| **Bilingual Apps**          | ✅ Arabic/English RTL Portals      |
+| **Public Repositories**     | 205+                               |
+| **Years of Experience**     | 5+                                 |
+| **Published Crates**        | 4 (1,000+ downloads)               |
+| **Tech Stack Mastery**      | 50+ Technologies                   |
+| **Healthcare Projects**     | Production Systems                 |
+| **AI/ML Integration**       | LLM & MCP Expert                   |
+| **Open Source**             | Active Contributor                 |
 
 </div>
 
@@ -411,25 +489,43 @@ mindmap
   
   ### 💭 My Philosophy
   
-  *"Combining healthcare domain knowledge with software engineering to build solutions that make a real-world impact. From understanding patient needs to architecting scalable systems."*
+  *"Combining healthcare domain knowledge with bilingual software engineering to build culturally-aware solutions that make a real-world impact. From understanding patient needs in Arabic and English to architecting scalable systems that serve diverse users."*
   
   ---
   
   ### ⚡ What Makes Me Different
   
   💊 **Pharmacist Background** - Deep healthcare domain knowledge  
+  🇪🇬 **Native Arabic Speaker** - Cultural understanding + technical implementation  
+  💬 **WhatsApp API Expert** - Production messaging platform integrations  
+  🌍 **Bilingual Development** - Arabic/English RTL applications  
   💻 **Full-Stack Expertise** - Frontend to backend to AI  
   🤖 **AI Integration Specialist** - MCP, LLM orchestration, RAG systems  
   🏥 **Healthcare Focus** - Building software that matters  
-  🌍 **Global Mindset** - Working with international teams  
   
   ---
   
   ### 🎓 Unique Value Proposition
   
   I don't just write code - I understand the healthcare problems I'm solving.  
+  As a native Arabic speaker, I build culturally-aware applications that truly serve Arabic users.  
   My pharmacy background gives me insights that pure developers might miss.  
-  I bridge the gap between medical needs and technical solutions.
+  I bridge the gap between medical needs, cultural understanding, and technical solutions.
+  
+  ---
+  
+  ### 🔍 Open to Opportunities
+  
+  I'm interested in roles that combine:
+  
+  ✅ **AI/LLM Integration** - Building intelligent systems  
+  ✅ **Arabic Language Tech** - Serving Arabic-speaking users  
+  ✅ **Healthcare Domain** - Making real-world impact  
+  ✅ **Full-Stack Development** - End-to-end ownership  
+  ✅ **Bilingual Applications** - Arabic/English platforms  
+  ✅ **Messaging Platforms** - WhatsApp, chat interfaces  
+  
+  **Status:** 🟢 Open to new opportunities
   
   ---
   
